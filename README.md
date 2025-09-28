@@ -61,3 +61,8 @@ This project uses Tailwind CSS v4.
 Main imports are in src/index.css:
 @import "tailwindcss";
 Configuration is handled automatically via postcss.config.js and tailwind.config.js.
+
+**Screenshots**
+
+![alt text](image.png)
+![alt text](image-1.png)
